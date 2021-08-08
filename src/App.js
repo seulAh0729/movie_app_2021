@@ -1,10 +1,18 @@
 import React from 'react';
 
+/*
 
-//2021-08-03 강의 진행중 
+- component는 HTML을 반환하는 함수.
+
+*/
+
 
 function App() {
-  return <div>Hello!!!!!!!</div>;
+  return (
+  <div>
+    <h1>Hello!!!!!!!</h1>
+  </div>
+  );
 }
 
 export default App;
